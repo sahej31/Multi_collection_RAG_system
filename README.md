@@ -8,14 +8,6 @@ The chatbot uses **Retrieval-Augmented Generation (RAG)** over **five diverse da
 
 ---
 
-## 🎯 Problem Statement
-
-Create a chatbot capable of:
-- Retrieving relevant information from structured/semi-structured sources
-- Maintaining memory across multi-turn queries
-- Demonstrating the system with a working CLI or web demo
-
----
 
 ## 🧠 Key Features
 
