@@ -41,7 +41,7 @@ Create a chatbot capable of:
 
 | Component     | Tool/Library            |
 |---------------|-------------------------|
-| LLM           | OpenAI ChatGPT (via API)|
+| LLM           |  OpenAI(via API)|
 | Embeddings    | `OpenAIEmbeddings`      |
 | Vector Store  | `ChromaDB`              |
 | Memory Layer  | `LangChain.Memory`      |
@@ -58,7 +58,7 @@ naptick-rag-memory-chatbot/
 ├── src/                  # Modular source code
 ├── requirements.txt
 ├── README.md
-└── writeup.pdf           # (To be added)
+         
 ```
 
 ---
