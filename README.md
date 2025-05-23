@@ -1,4 +1,4 @@
-# Naptick RAG Memory Chatbot
+# RAG Memory Chatbot
 
 ## 🚀 Overview
 
