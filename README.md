@@ -19,11 +19,11 @@ Create a chatbot capable of:
 
 ## 🧠 Key Features
 
-- ✅ **Multi-collection data indexing** (Wearables, Chat, Profile, Location, Research)
-- ✅ **Custom embedding + chunking pipeline** using LangChain + OpenAI
-- ✅ **Contextual memory support** for follow-up conversations
-- ✅ **Modular RAG pipeline** with clean abstractions
-- ✅ **CLI + Streamlit-based Web Demo**
+- **Multi-collection data indexing** (Wearables, Chat, Profile, Location, Research)
+- **Custom embedding + chunking pipeline** using LangChain + OpenAI
+- **Contextual memory support** for follow-up conversations
+- **Modular RAG pipeline** with clean abstractions
+- **CLI + Streamlit-based Web Demo**
 
 ---
 
@@ -41,7 +41,7 @@ Create a chatbot capable of:
 
 | Component     | Tool/Library            |
 |---------------|-------------------------|
-| LLM           | OpenAI ChatGPT (via API)|
+| LLM           | OpenAI (via API)|
 | Embeddings    | `OpenAIEmbeddings`      |
 | Vector Store  | `ChromaDB`              |
 | Memory Layer  | `LangChain.Memory`      |
@@ -58,7 +58,7 @@ naptick-rag-memory-chatbot/
 ├── src/                  # Modular source code
 ├── requirements.txt
 ├── README.md
-└── writeup.pdf           # (To be added)
+
 ```
 
 ---
@@ -103,11 +103,11 @@ streamlit run src/chatbot_web.py
 
 This submission includes:
 
-- ✔️ Complete codebase (`/src`) with modular files
-- ✔️ Simulated JSON collections (`/data`)
-- ✔️ Working CLI + Web App (`chatbot_cli.py`, `chatbot_web.py`)
-- ✔️ PDF Write-up (pending)
-- ✔️ Clean, documented, extensible logic
+- Complete codebase (`/src`) with modular files
+- Simulated JSON collections (`/data`)
+- Working CLI + Web App (`chatbot_cli.py`, `chatbot_web.py`)
+- PDF Write-up (pending)
+- Clean, documented, extensible logic
 
 ---
 

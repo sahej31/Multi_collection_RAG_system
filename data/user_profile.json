@@ -1,11 +1,1002 @@
 [
   {
-    "user_id": "123",
-    "age": 27,
+    "user_id": "1000",
+    "age": 42,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1001",
+    "age": 56,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1002",
+    "age": 23,
     "gender": "female",
     "preferences": [
       "low light",
-      "evening routines"
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1003",
+    "age": 44,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "white noise",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1004",
+    "age": 45,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1005",
+    "age": 28,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "cool room",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1006",
+    "age": 51,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1007",
+    "age": 59,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "cool room",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1008",
+    "age": 28,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "low light",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1009",
+    "age": 29,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1010",
+    "age": 57,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "consistent schedule",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1011",
+    "age": 19,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "cool room",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1012",
+    "age": 58,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "low light",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1013",
+    "age": 54,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1014",
+    "age": 23,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "cool room",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1015",
+    "age": 57,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "consistent schedule",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1016",
+    "age": 34,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "low light",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1017",
+    "age": 27,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "cool room",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1018",
+    "age": 57,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "no caffeine",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1019",
+    "age": 28,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "white noise",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1020",
+    "age": 23,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "consistent schedule",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1021",
+    "age": 58,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "white noise",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1022",
+    "age": 55,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "white noise",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1023",
+    "age": 20,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "consistent schedule",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1024",
+    "age": 23,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "white noise",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1025",
+    "age": 30,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "consistent schedule",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1026",
+    "age": 57,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "cool room",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1027",
+    "age": 37,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "consistent schedule",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1028",
+    "age": 48,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "white noise",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1029",
+    "age": 46,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1030",
+    "age": 19,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1031",
+    "age": 44,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "cool room",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1032",
+    "age": 55,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "low light",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1033",
+    "age": 52,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1034",
+    "age": 43,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "low light",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1035",
+    "age": 47,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "white noise",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1036",
+    "age": 42,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "consistent schedule",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1037",
+    "age": 40,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1038",
+    "age": 59,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "cool room",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1039",
+    "age": 27,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1040",
+    "age": 58,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "cool room",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1041",
+    "age": 40,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1042",
+    "age": 56,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "cool room",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1043",
+    "age": 40,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1044",
+    "age": 25,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1045",
+    "age": 20,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "white noise",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1046",
+    "age": 43,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1047",
+    "age": 31,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "white noise",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1048",
+    "age": 56,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1049",
+    "age": 49,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "white noise",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1050",
+    "age": 59,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "consistent schedule",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1051",
+    "age": 50,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "low light",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1052",
+    "age": 26,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "cool room",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1053",
+    "age": 41,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "low light",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1054",
+    "age": 28,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1055",
+    "age": 35,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "low light",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1056",
+    "age": 45,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "no caffeine",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1057",
+    "age": 45,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1058",
+    "age": 32,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "low light",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1059",
+    "age": 30,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1060",
+    "age": 38,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1061",
+    "age": 31,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1062",
+    "age": 28,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1063",
+    "age": 52,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "cool room",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1064",
+    "age": 19,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "white noise",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1065",
+    "age": 33,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "white noise",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1066",
+    "age": 57,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "cool room",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1067",
+    "age": 52,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1068",
+    "age": 57,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "consistent schedule",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1069",
+    "age": 59,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1070",
+    "age": 33,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1071",
+    "age": 24,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "white noise",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1072",
+    "age": 26,
+    "gender": "male",
+    "preferences": [
+      "cool room",
+      "white noise",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1073",
+    "age": 45,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1074",
+    "age": 21,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "white noise",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1075",
+    "age": 56,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1076",
+    "age": 29,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "cool room",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1077",
+    "age": 38,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1078",
+    "age": 19,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "cool room",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1079",
+    "age": 32,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "no caffeine",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1080",
+    "age": 18,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "white noise",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1081",
+    "age": 43,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "low light",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1082",
+    "age": 33,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "low light",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1083",
+    "age": 26,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "low light",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1084",
+    "age": 55,
+    "gender": "female",
+    "preferences": [
+      "cool room",
+      "no caffeine",
+      "low light"
+    ]
+  },
+  {
+    "user_id": "1085",
+    "age": 29,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1086",
+    "age": 32,
+    "gender": "male",
+    "preferences": [
+      "low light",
+      "cool room",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1087",
+    "age": 31,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "low light",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1088",
+    "age": 32,
+    "gender": "male",
+    "preferences": [
+      "consistent schedule",
+      "cool room",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1089",
+    "age": 53,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "low light",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1090",
+    "age": 21,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "no caffeine",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1091",
+    "age": 52,
+    "gender": "female",
+    "preferences": [
+      "no caffeine",
+      "low light",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1092",
+    "age": 57,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "low light",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1093",
+    "age": 60,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1094",
+    "age": 39,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "cool room",
+      "consistent schedule"
+    ]
+  },
+  {
+    "user_id": "1095",
+    "age": 49,
+    "gender": "female",
+    "preferences": [
+      "white noise",
+      "low light",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1096",
+    "age": 21,
+    "gender": "female",
+    "preferences": [
+      "low light",
+      "consistent schedule",
+      "no caffeine"
+    ]
+  },
+  {
+    "user_id": "1097",
+    "age": 21,
+    "gender": "female",
+    "preferences": [
+      "consistent schedule",
+      "low light",
+      "cool room"
+    ]
+  },
+  {
+    "user_id": "1098",
+    "age": 18,
+    "gender": "male",
+    "preferences": [
+      "no caffeine",
+      "low light",
+      "white noise"
+    ]
+  },
+  {
+    "user_id": "1099",
+    "age": 26,
+    "gender": "male",
+    "preferences": [
+      "white noise",
+      "low light",
+      "cool room"
     ]
   }
 ]

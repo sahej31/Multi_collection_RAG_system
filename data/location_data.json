@@ -1,7 +1,502 @@
 [
   {
-    "user_id": "123",
-    "location": "Toronto, Canada",
+    "user_id": "1000",
+    "location": "Sydney",
+    "visited": "2025-04-24"
+  },
+  {
+    "user_id": "1001",
+    "location": "New York",
+    "visited": "2025-05-08"
+  },
+  {
+    "user_id": "1002",
+    "location": "Delhi",
+    "visited": "2025-05-10"
+  },
+  {
+    "user_id": "1003",
+    "location": "Vancouver",
+    "visited": "2025-05-17"
+  },
+  {
+    "user_id": "1004",
+    "location": "New York",
+    "visited": "2025-05-02"
+  },
+  {
+    "user_id": "1005",
+    "location": "Delhi",
+    "visited": "2025-05-12"
+  },
+  {
+    "user_id": "1006",
+    "location": "New York",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1007",
+    "location": "Toronto",
+    "visited": "2025-05-15"
+  },
+  {
+    "user_id": "1008",
+    "location": "New York",
+    "visited": "2025-05-17"
+  },
+  {
+    "user_id": "1009",
+    "location": "Sydney",
+    "visited": "2025-05-09"
+  },
+  {
+    "user_id": "1010",
+    "location": "New York",
+    "visited": "2025-05-21"
+  },
+  {
+    "user_id": "1011",
+    "location": "New York",
+    "visited": "2025-04-25"
+  },
+  {
+    "user_id": "1012",
+    "location": "Toronto",
+    "visited": "2025-05-01"
+  },
+  {
+    "user_id": "1013",
+    "location": "Delhi",
+    "visited": "2025-05-07"
+  },
+  {
+    "user_id": "1014",
+    "location": "London",
+    "visited": "2025-04-25"
+  },
+  {
+    "user_id": "1015",
+    "location": "New York",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1016",
+    "location": "Delhi",
+    "visited": "2025-05-06"
+  },
+  {
+    "user_id": "1017",
+    "location": "Delhi",
+    "visited": "2025-04-26"
+  },
+  {
+    "user_id": "1018",
+    "location": "Delhi",
+    "visited": "2025-05-06"
+  },
+  {
+    "user_id": "1019",
+    "location": "Sydney",
+    "visited": "2025-05-14"
+  },
+  {
+    "user_id": "1000",
+    "location": "Delhi",
+    "visited": "2025-05-22"
+  },
+  {
+    "user_id": "1001",
+    "location": "Delhi",
+    "visited": "2025-05-21"
+  },
+  {
+    "user_id": "1002",
+    "location": "Toronto",
+    "visited": "2025-05-17"
+  },
+  {
+    "user_id": "1003",
+    "location": "Vancouver",
+    "visited": "2025-05-12"
+  },
+  {
+    "user_id": "1004",
+    "location": "Sydney",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1005",
+    "location": "Sydney",
+    "visited": "2025-05-01"
+  },
+  {
+    "user_id": "1006",
+    "location": "Toronto",
+    "visited": "2025-05-08"
+  },
+  {
+    "user_id": "1007",
+    "location": "Toronto",
+    "visited": "2025-04-28"
+  },
+  {
+    "user_id": "1008",
+    "location": "London",
+    "visited": "2025-05-06"
+  },
+  {
+    "user_id": "1009",
+    "location": "Toronto",
+    "visited": "2025-05-18"
+  },
+  {
+    "user_id": "1010",
+    "location": "Vancouver",
+    "visited": "2025-05-11"
+  },
+  {
+    "user_id": "1011",
+    "location": "Sydney",
+    "visited": "2025-05-09"
+  },
+  {
+    "user_id": "1012",
+    "location": "London",
+    "visited": "2025-05-08"
+  },
+  {
+    "user_id": "1013",
+    "location": "Toronto",
+    "visited": "2025-05-05"
+  },
+  {
+    "user_id": "1014",
+    "location": "London",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1015",
+    "location": "Vancouver",
+    "visited": "2025-05-14"
+  },
+  {
+    "user_id": "1016",
+    "location": "Toronto",
+    "visited": "2025-04-26"
+  },
+  {
+    "user_id": "1017",
+    "location": "New York",
+    "visited": "2025-05-15"
+  },
+  {
+    "user_id": "1018",
+    "location": "Delhi",
+    "visited": "2025-05-21"
+  },
+  {
+    "user_id": "1019",
+    "location": "Sydney",
+    "visited": "2025-05-08"
+  },
+  {
+    "user_id": "1000",
+    "location": "Toronto",
+    "visited": "2025-05-03"
+  },
+  {
+    "user_id": "1001",
+    "location": "Sydney",
+    "visited": "2025-05-21"
+  },
+  {
+    "user_id": "1002",
+    "location": "New York",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1003",
+    "location": "Toronto",
+    "visited": "2025-05-18"
+  },
+  {
+    "user_id": "1004",
+    "location": "Delhi",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1005",
+    "location": "Sydney",
+    "visited": "2025-05-07"
+  },
+  {
+    "user_id": "1006",
+    "location": "Vancouver",
+    "visited": "2025-04-30"
+  },
+  {
+    "user_id": "1007",
+    "location": "New York",
+    "visited": "2025-05-12"
+  },
+  {
+    "user_id": "1008",
+    "location": "Toronto",
+    "visited": "2025-05-10"
+  },
+  {
+    "user_id": "1009",
+    "location": "London",
+    "visited": "2025-04-27"
+  },
+  {
+    "user_id": "1010",
+    "location": "Toronto",
+    "visited": "2025-05-16"
+  },
+  {
+    "user_id": "1011",
+    "location": "Sydney",
+    "visited": "2025-05-22"
+  },
+  {
+    "user_id": "1012",
+    "location": "Toronto",
+    "visited": "2025-04-30"
+  },
+  {
+    "user_id": "1013",
+    "location": "Toronto",
+    "visited": "2025-05-03"
+  },
+  {
+    "user_id": "1014",
+    "location": "New York",
+    "visited": "2025-05-03"
+  },
+  {
+    "user_id": "1015",
+    "location": "Vancouver",
+    "visited": "2025-05-01"
+  },
+  {
+    "user_id": "1016",
+    "location": "Sydney",
+    "visited": "2025-04-24"
+  },
+  {
+    "user_id": "1017",
+    "location": "Sydney",
+    "visited": "2025-04-25"
+  },
+  {
+    "user_id": "1018",
+    "location": "Sydney",
+    "visited": "2025-05-12"
+  },
+  {
+    "user_id": "1019",
+    "location": "Toronto",
+    "visited": "2025-05-08"
+  },
+  {
+    "user_id": "1000",
+    "location": "Sydney",
+    "visited": "2025-05-11"
+  },
+  {
+    "user_id": "1001",
+    "location": "Delhi",
+    "visited": "2025-05-23"
+  },
+  {
+    "user_id": "1002",
+    "location": "London",
+    "visited": "2025-05-22"
+  },
+  {
+    "user_id": "1003",
+    "location": "New York",
+    "visited": "2025-05-15"
+  },
+  {
+    "user_id": "1004",
+    "location": "Delhi",
+    "visited": "2025-05-11"
+  },
+  {
+    "user_id": "1005",
+    "location": "New York",
+    "visited": "2025-04-25"
+  },
+  {
+    "user_id": "1006",
+    "location": "Sydney",
+    "visited": "2025-05-17"
+  },
+  {
+    "user_id": "1007",
+    "location": "Sydney",
+    "visited": "2025-05-18"
+  },
+  {
+    "user_id": "1008",
+    "location": "Delhi",
+    "visited": "2025-05-06"
+  },
+  {
+    "user_id": "1009",
+    "location": "Vancouver",
     "visited": "2025-05-19"
+  },
+  {
+    "user_id": "1010",
+    "location": "New York",
+    "visited": "2025-05-12"
+  },
+  {
+    "user_id": "1011",
+    "location": "Delhi",
+    "visited": "2025-05-17"
+  },
+  {
+    "user_id": "1012",
+    "location": "New York",
+    "visited": "2025-04-27"
+  },
+  {
+    "user_id": "1013",
+    "location": "New York",
+    "visited": "2025-05-22"
+  },
+  {
+    "user_id": "1014",
+    "location": "London",
+    "visited": "2025-05-14"
+  },
+  {
+    "user_id": "1015",
+    "location": "New York",
+    "visited": "2025-04-28"
+  },
+  {
+    "user_id": "1016",
+    "location": "Toronto",
+    "visited": "2025-04-28"
+  },
+  {
+    "user_id": "1017",
+    "location": "Vancouver",
+    "visited": "2025-05-23"
+  },
+  {
+    "user_id": "1018",
+    "location": "New York",
+    "visited": "2025-05-21"
+  },
+  {
+    "user_id": "1019",
+    "location": "Toronto",
+    "visited": "2025-04-30"
+  },
+  {
+    "user_id": "1000",
+    "location": "Sydney",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1001",
+    "location": "Vancouver",
+    "visited": "2025-05-02"
+  },
+  {
+    "user_id": "1002",
+    "location": "Sydney",
+    "visited": "2025-05-01"
+  },
+  {
+    "user_id": "1003",
+    "location": "Sydney",
+    "visited": "2025-05-17"
+  },
+  {
+    "user_id": "1004",
+    "location": "London",
+    "visited": "2025-05-07"
+  },
+  {
+    "user_id": "1005",
+    "location": "Sydney",
+    "visited": "2025-04-29"
+  },
+  {
+    "user_id": "1006",
+    "location": "Delhi",
+    "visited": "2025-04-27"
+  },
+  {
+    "user_id": "1007",
+    "location": "London",
+    "visited": "2025-05-23"
+  },
+  {
+    "user_id": "1008",
+    "location": "Delhi",
+    "visited": "2025-05-04"
+  },
+  {
+    "user_id": "1009",
+    "location": "London",
+    "visited": "2025-05-04"
+  },
+  {
+    "user_id": "1010",
+    "location": "Sydney",
+    "visited": "2025-05-16"
+  },
+  {
+    "user_id": "1011",
+    "location": "Toronto",
+    "visited": "2025-04-24"
+  },
+  {
+    "user_id": "1012",
+    "location": "Toronto",
+    "visited": "2025-05-05"
+  },
+  {
+    "user_id": "1013",
+    "location": "Toronto",
+    "visited": "2025-05-06"
+  },
+  {
+    "user_id": "1014",
+    "location": "Toronto",
+    "visited": "2025-04-27"
+  },
+  {
+    "user_id": "1015",
+    "location": "Toronto",
+    "visited": "2025-05-11"
+  },
+  {
+    "user_id": "1016",
+    "location": "Delhi",
+    "visited": "2025-05-06"
+  },
+  {
+    "user_id": "1017",
+    "location": "Toronto",
+    "visited": "2025-05-21"
+  },
+  {
+    "user_id": "1018",
+    "location": "Sydney",
+    "visited": "2025-05-01"
+  },
+  {
+    "user_id": "1019",
+    "location": "Sydney",
+    "visited": "2025-04-25"
   }
 ]

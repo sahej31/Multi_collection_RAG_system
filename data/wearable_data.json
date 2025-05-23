@@ -1,9 +1,702 @@
 [
   {
-    "user_id": "123",
-    "date": "2025-05-21",
+    "user_id": "1000",
+    "date": "2025-05-10",
     "sleep_hours": 7.5,
+    "rem_sleep": "2.4 hrs",
+    "heart_rate_avg": 71
+  },
+  {
+    "user_id": "1001",
+    "date": "2025-04-27",
+    "sleep_hours": 6.1,
+    "rem_sleep": "1.4 hrs",
+    "heart_rate_avg": 65
+  },
+  {
+    "user_id": "1002",
+    "date": "2025-05-03",
+    "sleep_hours": 7.6,
+    "rem_sleep": "1.6 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1003",
+    "date": "2025-05-03",
+    "sleep_hours": 7.8,
+    "rem_sleep": "2.3 hrs",
+    "heart_rate_avg": 58
+  },
+  {
+    "user_id": "1004",
+    "date": "2025-05-01",
+    "sleep_hours": 5.8,
+    "rem_sleep": "2.4 hrs",
+    "heart_rate_avg": 68
+  },
+  {
+    "user_id": "1005",
+    "date": "2025-04-24",
+    "sleep_hours": 5.9,
+    "rem_sleep": "1.8 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1006",
+    "date": "2025-04-27",
+    "sleep_hours": 8.2,
+    "rem_sleep": "2.4 hrs",
+    "heart_rate_avg": 63
+  },
+  {
+    "user_id": "1007",
+    "date": "2025-05-18",
+    "sleep_hours": 5.9,
+    "rem_sleep": "1.3 hrs",
+    "heart_rate_avg": 65
+  },
+  {
+    "user_id": "1008",
+    "date": "2025-05-22",
+    "sleep_hours": 7.6,
+    "rem_sleep": "2.1 hrs",
+    "heart_rate_avg": 71
+  },
+  {
+    "user_id": "1009",
+    "date": "2025-05-13",
+    "sleep_hours": 5.6,
+    "rem_sleep": "1.4 hrs",
+    "heart_rate_avg": 73
+  },
+  {
+    "user_id": "1010",
+    "date": "2025-04-28",
+    "sleep_hours": 5.2,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 72
+  },
+  {
+    "user_id": "1011",
+    "date": "2025-05-02",
+    "sleep_hours": 6.7,
+    "rem_sleep": "2.3 hrs",
+    "heart_rate_avg": 75
+  },
+  {
+    "user_id": "1012",
+    "date": "2025-04-25",
+    "sleep_hours": 8.1,
+    "rem_sleep": "2.2 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1013",
+    "date": "2025-05-22",
+    "sleep_hours": 5.4,
+    "rem_sleep": "1.6 hrs",
+    "heart_rate_avg": 60
+  },
+  {
+    "user_id": "1014",
+    "date": "2025-05-10",
+    "sleep_hours": 7.4,
+    "rem_sleep": "2.4 hrs",
+    "heart_rate_avg": 56
+  },
+  {
+    "user_id": "1015",
+    "date": "2025-05-09",
+    "sleep_hours": 6.6,
     "rem_sleep": "1.8 hrs",
     "heart_rate_avg": 62
+  },
+  {
+    "user_id": "1016",
+    "date": "2025-04-25",
+    "sleep_hours": 6.5,
+    "rem_sleep": "2.3 hrs",
+    "heart_rate_avg": 71
+  },
+  {
+    "user_id": "1017",
+    "date": "2025-05-13",
+    "sleep_hours": 8.3,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 57
+  },
+  {
+    "user_id": "1018",
+    "date": "2025-05-01",
+    "sleep_hours": 8.0,
+    "rem_sleep": "1.1 hrs",
+    "heart_rate_avg": 56
+  },
+  {
+    "user_id": "1019",
+    "date": "2025-05-14",
+    "sleep_hours": 8.6,
+    "rem_sleep": "1.9 hrs",
+    "heart_rate_avg": 73
+  },
+  {
+    "user_id": "1020",
+    "date": "2025-05-22",
+    "sleep_hours": 5.9,
+    "rem_sleep": "1.3 hrs",
+    "heart_rate_avg": 68
+  },
+  {
+    "user_id": "1021",
+    "date": "2025-05-12",
+    "sleep_hours": 8.6,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 75
+  },
+  {
+    "user_id": "1022",
+    "date": "2025-05-19",
+    "sleep_hours": 7.6,
+    "rem_sleep": "2.1 hrs",
+    "heart_rate_avg": 69
+  },
+  {
+    "user_id": "1023",
+    "date": "2025-05-19",
+    "sleep_hours": 5.3,
+    "rem_sleep": "1.0 hrs",
+    "heart_rate_avg": 74
+  },
+  {
+    "user_id": "1024",
+    "date": "2025-04-29",
+    "sleep_hours": 8.3,
+    "rem_sleep": "1.2 hrs",
+    "heart_rate_avg": 75
+  },
+  {
+    "user_id": "1025",
+    "date": "2025-05-02",
+    "sleep_hours": 7.0,
+    "rem_sleep": "1.3 hrs",
+    "heart_rate_avg": 58
+  },
+  {
+    "user_id": "1026",
+    "date": "2025-05-18",
+    "sleep_hours": 6.7,
+    "rem_sleep": "1.0 hrs",
+    "heart_rate_avg": 63
+  },
+  {
+    "user_id": "1027",
+    "date": "2025-05-01",
+    "sleep_hours": 9.0,
+    "rem_sleep": "1.7 hrs",
+    "heart_rate_avg": 58
+  },
+  {
+    "user_id": "1028",
+    "date": "2025-05-16",
+    "sleep_hours": 6.2,
+    "rem_sleep": "2.5 hrs",
+    "heart_rate_avg": 75
+  },
+  {
+    "user_id": "1029",
+    "date": "2025-05-15",
+    "sleep_hours": 8.4,
+    "rem_sleep": "1.9 hrs",
+    "heart_rate_avg": 61
+  },
+  {
+    "user_id": "1030",
+    "date": "2025-05-21",
+    "sleep_hours": 7.2,
+    "rem_sleep": "1.5 hrs",
+    "heart_rate_avg": 70
+  },
+  {
+    "user_id": "1031",
+    "date": "2025-05-05",
+    "sleep_hours": 5.3,
+    "rem_sleep": "1.8 hrs",
+    "heart_rate_avg": 72
+  },
+  {
+    "user_id": "1032",
+    "date": "2025-04-30",
+    "sleep_hours": 7.5,
+    "rem_sleep": "2.1 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1033",
+    "date": "2025-05-21",
+    "sleep_hours": 8.8,
+    "rem_sleep": "1.8 hrs",
+    "heart_rate_avg": 64
+  },
+  {
+    "user_id": "1034",
+    "date": "2025-05-19",
+    "sleep_hours": 7.3,
+    "rem_sleep": "2.2 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1035",
+    "date": "2025-05-06",
+    "sleep_hours": 6.2,
+    "rem_sleep": "1.8 hrs",
+    "heart_rate_avg": 71
+  },
+  {
+    "user_id": "1036",
+    "date": "2025-05-18",
+    "sleep_hours": 7.2,
+    "rem_sleep": "2.3 hrs",
+    "heart_rate_avg": 57
+  },
+  {
+    "user_id": "1037",
+    "date": "2025-04-26",
+    "sleep_hours": 7.1,
+    "rem_sleep": "1.3 hrs",
+    "heart_rate_avg": 73
+  },
+  {
+    "user_id": "1038",
+    "date": "2025-05-01",
+    "sleep_hours": 8.3,
+    "rem_sleep": "1.2 hrs",
+    "heart_rate_avg": 72
+  },
+  {
+    "user_id": "1039",
+    "date": "2025-04-24",
+    "sleep_hours": 5.4,
+    "rem_sleep": "2.5 hrs",
+    "heart_rate_avg": 71
+  },
+  {
+    "user_id": "1040",
+    "date": "2025-05-15",
+    "sleep_hours": 6.4,
+    "rem_sleep": "2.2 hrs",
+    "heart_rate_avg": 59
+  },
+  {
+    "user_id": "1041",
+    "date": "2025-05-21",
+    "sleep_hours": 6.9,
+    "rem_sleep": "1.8 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1042",
+    "date": "2025-04-29",
+    "sleep_hours": 6.4,
+    "rem_sleep": "2.2 hrs",
+    "heart_rate_avg": 65
+  },
+  {
+    "user_id": "1043",
+    "date": "2025-05-14",
+    "sleep_hours": 7.1,
+    "rem_sleep": "1.7 hrs",
+    "heart_rate_avg": 61
+  },
+  {
+    "user_id": "1044",
+    "date": "2025-04-25",
+    "sleep_hours": 7.6,
+    "rem_sleep": "2.1 hrs",
+    "heart_rate_avg": 59
+  },
+  {
+    "user_id": "1045",
+    "date": "2025-04-25",
+    "sleep_hours": 8.4,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 71
+  },
+  {
+    "user_id": "1046",
+    "date": "2025-05-14",
+    "sleep_hours": 6.8,
+    "rem_sleep": "2.5 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1047",
+    "date": "2025-05-05",
+    "sleep_hours": 8.9,
+    "rem_sleep": "2.4 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1048",
+    "date": "2025-05-04",
+    "sleep_hours": 7.3,
+    "rem_sleep": "1.9 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1049",
+    "date": "2025-05-19",
+    "sleep_hours": 6.2,
+    "rem_sleep": "1.1 hrs",
+    "heart_rate_avg": 70
+  },
+  {
+    "user_id": "1050",
+    "date": "2025-04-23",
+    "sleep_hours": 6.2,
+    "rem_sleep": "1.0 hrs",
+    "heart_rate_avg": 62
+  },
+  {
+    "user_id": "1051",
+    "date": "2025-05-18",
+    "sleep_hours": 5.7,
+    "rem_sleep": "2.5 hrs",
+    "heart_rate_avg": 72
+  },
+  {
+    "user_id": "1052",
+    "date": "2025-05-18",
+    "sleep_hours": 6.8,
+    "rem_sleep": "1.5 hrs",
+    "heart_rate_avg": 74
+  },
+  {
+    "user_id": "1053",
+    "date": "2025-05-17",
+    "sleep_hours": 8.0,
+    "rem_sleep": "1.3 hrs",
+    "heart_rate_avg": 57
+  },
+  {
+    "user_id": "1054",
+    "date": "2025-04-30",
+    "sleep_hours": 5.2,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 65
+  },
+  {
+    "user_id": "1055",
+    "date": "2025-04-26",
+    "sleep_hours": 5.7,
+    "rem_sleep": "1.7 hrs",
+    "heart_rate_avg": 73
+  },
+  {
+    "user_id": "1056",
+    "date": "2025-05-18",
+    "sleep_hours": 7.0,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 63
+  },
+  {
+    "user_id": "1057",
+    "date": "2025-05-23",
+    "sleep_hours": 9.0,
+    "rem_sleep": "1.2 hrs",
+    "heart_rate_avg": 58
+  },
+  {
+    "user_id": "1058",
+    "date": "2025-04-26",
+    "sleep_hours": 6.8,
+    "rem_sleep": "2.5 hrs",
+    "heart_rate_avg": 64
+  },
+  {
+    "user_id": "1059",
+    "date": "2025-04-28",
+    "sleep_hours": 7.9,
+    "rem_sleep": "1.1 hrs",
+    "heart_rate_avg": 64
+  },
+  {
+    "user_id": "1060",
+    "date": "2025-05-12",
+    "sleep_hours": 8.2,
+    "rem_sleep": "1.4 hrs",
+    "heart_rate_avg": 64
+  },
+  {
+    "user_id": "1061",
+    "date": "2025-05-05",
+    "sleep_hours": 5.4,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 65
+  },
+  {
+    "user_id": "1062",
+    "date": "2025-05-02",
+    "sleep_hours": 8.7,
+    "rem_sleep": "2.3 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1063",
+    "date": "2025-05-03",
+    "sleep_hours": 8.3,
+    "rem_sleep": "1.1 hrs",
+    "heart_rate_avg": 58
+  },
+  {
+    "user_id": "1064",
+    "date": "2025-05-14",
+    "sleep_hours": 5.9,
+    "rem_sleep": "1.6 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1065",
+    "date": "2025-05-13",
+    "sleep_hours": 7.9,
+    "rem_sleep": "2.2 hrs",
+    "heart_rate_avg": 74
+  },
+  {
+    "user_id": "1066",
+    "date": "2025-05-10",
+    "sleep_hours": 7.2,
+    "rem_sleep": "1.2 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1067",
+    "date": "2025-05-20",
+    "sleep_hours": 7.4,
+    "rem_sleep": "1.0 hrs",
+    "heart_rate_avg": 57
+  },
+  {
+    "user_id": "1068",
+    "date": "2025-04-25",
+    "sleep_hours": 8.3,
+    "rem_sleep": "1.4 hrs",
+    "heart_rate_avg": 67
+  },
+  {
+    "user_id": "1069",
+    "date": "2025-04-24",
+    "sleep_hours": 8.5,
+    "rem_sleep": "2.1 hrs",
+    "heart_rate_avg": 70
+  },
+  {
+    "user_id": "1070",
+    "date": "2025-04-24",
+    "sleep_hours": 9.0,
+    "rem_sleep": "1.5 hrs",
+    "heart_rate_avg": 68
+  },
+  {
+    "user_id": "1071",
+    "date": "2025-05-23",
+    "sleep_hours": 7.3,
+    "rem_sleep": "1.9 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1072",
+    "date": "2025-05-23",
+    "sleep_hours": 6.2,
+    "rem_sleep": "1.5 hrs",
+    "heart_rate_avg": 59
+  },
+  {
+    "user_id": "1073",
+    "date": "2025-05-07",
+    "sleep_hours": 5.4,
+    "rem_sleep": "2.4 hrs",
+    "heart_rate_avg": 67
+  },
+  {
+    "user_id": "1074",
+    "date": "2025-04-23",
+    "sleep_hours": 7.4,
+    "rem_sleep": "2.5 hrs",
+    "heart_rate_avg": 68
+  },
+  {
+    "user_id": "1075",
+    "date": "2025-05-08",
+    "sleep_hours": 8.3,
+    "rem_sleep": "1.6 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1076",
+    "date": "2025-05-17",
+    "sleep_hours": 6.2,
+    "rem_sleep": "1.9 hrs",
+    "heart_rate_avg": 75
+  },
+  {
+    "user_id": "1077",
+    "date": "2025-05-06",
+    "sleep_hours": 5.6,
+    "rem_sleep": "1.8 hrs",
+    "heart_rate_avg": 61
+  },
+  {
+    "user_id": "1078",
+    "date": "2025-05-14",
+    "sleep_hours": 5.0,
+    "rem_sleep": "1.2 hrs",
+    "heart_rate_avg": 68
+  },
+  {
+    "user_id": "1079",
+    "date": "2025-05-13",
+    "sleep_hours": 7.6,
+    "rem_sleep": "1.2 hrs",
+    "heart_rate_avg": 69
+  },
+  {
+    "user_id": "1080",
+    "date": "2025-05-13",
+    "sleep_hours": 5.7,
+    "rem_sleep": "2.4 hrs",
+    "heart_rate_avg": 70
+  },
+  {
+    "user_id": "1081",
+    "date": "2025-04-24",
+    "sleep_hours": 6.7,
+    "rem_sleep": "1.5 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1082",
+    "date": "2025-04-28",
+    "sleep_hours": 9.0,
+    "rem_sleep": "1.7 hrs",
+    "heart_rate_avg": 60
+  },
+  {
+    "user_id": "1083",
+    "date": "2025-04-27",
+    "sleep_hours": 7.3,
+    "rem_sleep": "2.5 hrs",
+    "heart_rate_avg": 56
+  },
+  {
+    "user_id": "1084",
+    "date": "2025-04-30",
+    "sleep_hours": 7.4,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 68
+  },
+  {
+    "user_id": "1085",
+    "date": "2025-05-23",
+    "sleep_hours": 7.2,
+    "rem_sleep": "1.5 hrs",
+    "heart_rate_avg": 65
+  },
+  {
+    "user_id": "1086",
+    "date": "2025-05-20",
+    "sleep_hours": 5.3,
+    "rem_sleep": "2.0 hrs",
+    "heart_rate_avg": 57
+  },
+  {
+    "user_id": "1087",
+    "date": "2025-05-04",
+    "sleep_hours": 7.9,
+    "rem_sleep": "2.1 hrs",
+    "heart_rate_avg": 64
+  },
+  {
+    "user_id": "1088",
+    "date": "2025-05-04",
+    "sleep_hours": 6.7,
+    "rem_sleep": "1.4 hrs",
+    "heart_rate_avg": 59
+  },
+  {
+    "user_id": "1089",
+    "date": "2025-05-03",
+    "sleep_hours": 8.4,
+    "rem_sleep": "1.6 hrs",
+    "heart_rate_avg": 68
+  },
+  {
+    "user_id": "1090",
+    "date": "2025-05-04",
+    "sleep_hours": 6.5,
+    "rem_sleep": "1.7 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1091",
+    "date": "2025-05-11",
+    "sleep_hours": 7.0,
+    "rem_sleep": "1.8 hrs",
+    "heart_rate_avg": 74
+  },
+  {
+    "user_id": "1092",
+    "date": "2025-05-08",
+    "sleep_hours": 5.7,
+    "rem_sleep": "1.5 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1093",
+    "date": "2025-05-07",
+    "sleep_hours": 5.5,
+    "rem_sleep": "1.9 hrs",
+    "heart_rate_avg": 75
+  },
+  {
+    "user_id": "1094",
+    "date": "2025-05-23",
+    "sleep_hours": 8.6,
+    "rem_sleep": "1.0 hrs",
+    "heart_rate_avg": 66
+  },
+  {
+    "user_id": "1095",
+    "date": "2025-05-06",
+    "sleep_hours": 7.8,
+    "rem_sleep": "2.3 hrs",
+    "heart_rate_avg": 64
+  },
+  {
+    "user_id": "1096",
+    "date": "2025-05-11",
+    "sleep_hours": 7.4,
+    "rem_sleep": "1.7 hrs",
+    "heart_rate_avg": 67
+  },
+  {
+    "user_id": "1097",
+    "date": "2025-04-28",
+    "sleep_hours": 6.3,
+    "rem_sleep": "1.6 hrs",
+    "heart_rate_avg": 55
+  },
+  {
+    "user_id": "1098",
+    "date": "2025-05-09",
+    "sleep_hours": 6.5,
+    "rem_sleep": "1.9 hrs",
+    "heart_rate_avg": 57
+  },
+  {
+    "user_id": "1099",
+    "date": "2025-05-21",
+    "sleep_hours": 7.1,
+    "rem_sleep": "2.1 hrs",
+    "heart_rate_avg": 74
   }
 ]
