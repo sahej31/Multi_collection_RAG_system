@@ -12,9 +12,9 @@ vectorstores = [
 
 chatbot = create_chatbot(vectorstores)
 
-st.title("Naptick Sleep Assistant 🤖")
+st.title("Naptick Sleep Assistant ")
 user_query = st.text_input("Ask your question:")
 
 if user_query:
     answer = chatbot.run(user_query)
-    st.write("🧠 Bot:", answer)
+    st.write("Bot:", answer)
