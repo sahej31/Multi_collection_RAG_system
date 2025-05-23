@@ -113,4 +113,4 @@ This submission includes:
 
 ---
 
-**Made with ❤️ for Naptick by [Sahej Preet Singh]**
+**Made with ❤️ for Naptick by Sahej Preet Singh**
