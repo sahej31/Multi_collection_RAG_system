@@ -8,14 +8,6 @@ The chatbot uses **Retrieval-Augmented Generation (RAG)** over **five diverse da
 
 ---
 
-## 🎯 Problem Statement
-
-Create a chatbot capable of:
-- Retrieving relevant information from structured/semi-structured sources
-- Maintaining memory across multi-turn queries
-- Demonstrating the system with a working CLI or web demo
-
----
 
 ## 🧠 Key Features
 
@@ -41,7 +33,11 @@ Create a chatbot capable of:
 
 | Component     | Tool/Library            |
 |---------------|-------------------------|
+<<<<<<< HEAD
 | LLM           | OpenAI (via API)|
+=======
+| LLM           |  OpenAI(via API)|
+>>>>>>> b4c584abe129c470ebafb61da5ef32dde6ffc97c
 | Embeddings    | `OpenAIEmbeddings`      |
 | Vector Store  | `ChromaDB`              |
 | Memory Layer  | `LangChain.Memory`      |
@@ -58,7 +54,11 @@ naptick-rag-memory-chatbot/
 ├── src/                  # Modular source code
 ├── requirements.txt
 ├── README.md
+<<<<<<< HEAD
 
+=======
+         
+>>>>>>> b4c584abe129c470ebafb61da5ef32dde6ffc97c
 ```
 
 ---
