@@ -33,11 +33,7 @@ The chatbot uses **Retrieval-Augmented Generation (RAG)** over **five diverse da
 
 | Component     | Tool/Library            |
 |---------------|-------------------------|
-<<<<<<< HEAD
-| LLM           | OpenAI (via API)|
-=======
-| LLM           |  OpenAI(via API)|
->>>>>>> b4c584abe129c470ebafb61da5ef32dde6ffc97c
+| LLM           | OpenAI (via API)
 | Embeddings    | `OpenAIEmbeddings`      |
 | Vector Store  | `ChromaDB`              |
 | Memory Layer  | `LangChain.Memory`      |
