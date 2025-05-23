@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This project is a fully functional AI-powered chatbot designed for the Naptick AI Challenge — Task 1: Multi-Collection RAG System with Memory Layer.
+This project is a fully functional AI-powered chatbot: Multi-Collection RAG System with Memory Layer.
 
 The chatbot uses **Retrieval-Augmented Generation (RAG)** over **five diverse data collections**, integrated with a **memory layer** to preserve conversational context across sessions.
 
@@ -50,12 +50,9 @@ naptick-rag-memory-chatbot/
 ├── src/                  # Modular source code
 ├── requirements.txt
 ├── README.md
-<<<<<<< HEAD
+
 
 =======
-         
->>>>>>> b4c584abe129c470ebafb61da5ef32dde6ffc97c
-```
 
 ---
 
